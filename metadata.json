@@ -1,0 +1,7 @@
+{
+  "name": "ProblemPulse",
+  "description": "An AI-powered real-time platform that detects, simplifies, and visualizes global and local problems to spark innovation and public awareness.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
